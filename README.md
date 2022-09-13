@@ -6,7 +6,6 @@
 
 ## Marketing
 ⌛ Hero Sections <br>
-⌛ Hero Section <br>
 ⌛ Feature Sections <br>
 ⌛ CTA Sections <br>
 ⌛ Pricing Sections <br>
