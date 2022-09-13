@@ -5,32 +5,32 @@
 ⌛ In progress <br>
 
 ## Marketing
-⌛ Hero Sections
-⌛ Hero Section
-⌛ Feature Sections
-⌛ CTA Sections
-⌛ Pricing Sections
-⌛ Header Sections
-⌛ FAQs
-⌛ Newsletter Sections
-⌛ Stats
-⌛ Testimonials
-⌛ Blog Sections
-⌛ Contact Sections
-⌛ Team Sections
-⌛ Content Sections
-⌛ Footers
-⌛ Logo Clouds
+⌛ Hero Sections <br>
+⌛ Hero Section <br>
+⌛ Feature Sections <br>
+⌛ CTA Sections <br>
+⌛ Pricing Sections <br>
+⌛ Header Sections <br>
+⌛ FAQs <br>
+⌛ Newsletter Sections <br>
+⌛ Stats <br>
+⌛ Testimonials <br>
+⌛ Blog Sections <br>
+⌛ Contact Sections <br>
+⌛ Team Sections <br>
+⌛ Content Sections <br>
+⌛ Footers <br>
+⌛ Logo Clouds <br>
 
 ## Elements
-⌛ Headers
-⌛ Banners
-⌛ Flyout Menus
+⌛ Headers <br>
+⌛ Banners <br>
+⌛ Flyout Menus <br>
 
 ## Feedback
-⌛ 404 Pages
+⌛ 404 Pages <br>
 
 ## Page Examples
-⌛ Landing Pages
-⌛ Pricing Pages
-⌛ Contact Pages
+⌛ Landing Pages <br>
+⌛ Pricing Pages <br>
+⌛ Contact Pages <br>
