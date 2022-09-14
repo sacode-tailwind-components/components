@@ -1,6 +1,10 @@
 # SaCode Tailwind CSS Components
 
 
+## How to contribute
+You can follow the contributing guide listed [here](./CONTRIBUTING.md)
+
+## Todolist
 ✅ Completed <br>
 ⌛ In progress <br>
 
